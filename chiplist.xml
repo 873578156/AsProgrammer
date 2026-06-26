@@ -1253,6 +1253,7 @@ vcc - 芯片电压属性，可设置为1.8，2.5，3.3，5.0
 	<W25Q32JVSSIQ id="EF4016" page="256" size="4194304" busycheck="1" vcc="3.3"/>
 	<W25Q64JVSSIQ id="EF4017" page="256" size="8388608" busycheck="1" vcc="3.3"/>
 	<W25Q128JVSSIQ id="EF4018" page="256" size="16777216" busycheck="1" vcc="3.3"/>
+	<W25Q128JVSQ id="EF4018" page="256" size="16777216" busycheck="1" vcc="3.3"/>
 	<W25Q256JVSSIQ id="EF4019" page="256" size="33554432" busycheck="1" vcc="3.3"/>
 	<W25Q512JVSPIQ id="EF4020" page="256" size="67108864" busycheck="1" vcc="3.3"/>
 	<W25Q1024JVSPIQ id="EF4021" page="256" size="134217728" busycheck="1" vcc="3.3"/>
